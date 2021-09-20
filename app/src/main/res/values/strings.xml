@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CalculadoraKotlin</string>
+    <string name="PiValue">3.141592653</string>
 </resources>
